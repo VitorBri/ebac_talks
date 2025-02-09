@@ -25,7 +25,7 @@ Um site para promover um evento de tecnologia , com contador regressivo, informa
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/ebac-talks.git
+   git clone https://github.com/VitorBri/ebac_talks.git
    cd ebac-talks
    ```
 
